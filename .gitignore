@@ -1,0 +1,4 @@
+venv/
+logs/
+ARS_LLM_PROJECT.egg-info/
+.env
